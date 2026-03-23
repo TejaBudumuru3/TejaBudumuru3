@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TejaBudumuru3&color=6366f1&style=flat-square&label=Profile+Views)
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=220&section=header&text=Saran%20Teja%20Budumuru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="./header.svg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+autonomous+multi-agent+systems;Turning+ideas+into+production+software)](https://git.io/typing-svg)
 
@@ -180,4 +180,4 @@ open_to_opportunities: true
 
 Or open an issue — I read everything.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>

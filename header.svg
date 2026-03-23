@@ -1,0 +1,52 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes fadeSlideIn {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes subtlePulse {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      .title-text {
+        animation: fadeSlideIn 1.5s ease-out forwards;
+        opacity: 0;
+      }
+      .subtitle-text {
+        animation: fadeSlideIn 1.5s ease-out 0.4s forwards;
+        opacity: 0;
+      }
+      .dot {
+        animation: subtlePulse 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="200" rx="16" fill="url(#headerGrad)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="50" cy="40" r="60" fill="rgba(255,255,255,0.05)" class="dot"/>
+  <circle cx="850" cy="160" r="80" fill="rgba(255,255,255,0.04)" class="dot"/>
+  <circle cx="200" cy="180" r="40" fill="rgba(255,255,255,0.03)" class="dot"/>
+  <circle cx="700" cy="30" r="50" fill="rgba(255,255,255,0.04)" class="dot"/>
+  
+  <!-- Wave decoration at bottom -->
+  <path d="M0 170 Q150 140 300 170 Q450 200 600 170 Q750 140 900 170 L900 200 L0 200 Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M0 180 Q150 160 300 180 Q450 200 600 180 Q750 160 900 180 L900 200 L0 200 Z" fill="rgba(255,255,255,0.06)"/>
+  
+  <!-- Name -->
+  <text x="450" y="85" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="40" fill="#ffffff" class="title-text">
+    Saran Teja Budumuru
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="400" font-size="18" fill="rgba(255,255,255,0.85)" class="subtitle-text">
+    Full-Stack Developer &amp; AI Engineer
+  </text>
+</svg>
