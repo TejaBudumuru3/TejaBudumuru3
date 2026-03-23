@@ -62,26 +62,6 @@ My personal mission: *Make the distance between "I have an idea" and "it's runni
 
 </td>
 </tr>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=next.js&logoColor=8b5cf6" height="28"/>
-</td>
-<td>
-
-**[Second-Brain](https://github.com/Dev-Pross/Second-Brain)** — A knowledge management app for organizing and retrieving notes and ideas. Next.js + Python.
-
-</td>
-</tr>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/-000?style=for-the-badge&logo=python&logoColor=ec4899" height="28"/>
-</td>
-<td>
-
-**[AI Health Assistant](https://github.com/TejaBudumuru3/AI-Powered-Health-Assistant-project_techsaksham)** — A conversational health assistant built with Python during the TechSaksham program.
-
-</td>
-</tr>
 </table>
 
 ---
@@ -131,21 +111,13 @@ My personal mission: *Make the distance between "I have an idea" and "it's runni
 ```yaml
 name: Teja Budumuru
 location: Visakhapatnam, India
-org: Dev-Pross
 certifications:
   - Oracle AI Certified Professional
   - Oracle Professional Certification
-currently_building: CodePlay — multi-agent AI game builder
+currently_building: BuildFlow — Workflow automation
 currently_learning:
   - System Design
   - LLM Orchestration & Agent Frameworks
-  - Kubernetes
-past_companies:
-  - Net Ninja Solutions
-  - Amgo Games
-  - Bhionix Group
-  - CareerMaker.ai
-  - GritByte Labs
 open_to_opportunities: true
 ```
 
