@@ -5,15 +5,15 @@
 <!-- Animated header -->
 <img src="./header.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+autonomous+multi-agent+systems;Turning+ideas+into+production+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full-Stack+Developer+%26+AI+Engineer;Building+multi-agent+systems+%26+web+apps)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Howdy!
+## Hey, I'm Teja
 
-I build AI-powered tools and full-stack platforms. Currently focused on multi-agent systems that turn natural language into working software — games, workflows, applications. I started out writing backend APIs and frontend UIs, discovered I could make AI agents do the heavy lifting, and never looked back.
+I'm a full-stack developer working with AI-driven tools and web platforms. Most of my recent work involves building multi-agent systems — applications where multiple AI agents collaborate to produce working software from user input.
 
 My personal mission: *Make the distance between "I have an idea" and "it's running in production" as short as possible.*
 
@@ -21,17 +21,15 @@ My personal mission: *Make the distance between "I have an idea" and "it's runni
 
 ## What I believe
 
-- **Ship it** — a working prototype teaches more than a month of planning. Get it in someone's hands and iterate.
-- **Agents over monoliths** — split intelligence into focused specialists. A clarifier shouldn't code, and a coder shouldn't ask questions.
-- **Build in the open** — open source isn't a distribution model, it's a trust model. Every project I build is public.
-- **Full-stack means full ownership** — from the database schema to the deploy pipeline, I own the entire surface area.
-- **Stay a builder** — titles change. The instinct to open an editor and ship something should never go away.
+- **Ship early** — a working prototype teaches more than extended planning. Put it in front of users and iterate.
+- **Separate concerns** — in AI systems and in code. Focused agents and focused modules produce better results.
+- **Build in the open** — sharing work publicly keeps the quality bar high and invites useful feedback.
+- **Own the full stack** — from the database schema to the deploy pipeline. Fewer handoffs, fewer gaps.
+- **Keep building** — titles and tools change. The habit of making things shouldn't.
 
 ---
 
-## What I've built
-
-I've spent my career at the intersection of AI, full-stack development, and developer tooling — trying to make autonomous systems that actually work in production.
+## Projects
 
 <table>
 <tr>
@@ -40,7 +38,7 @@ I've spent my career at the intersection of AI, full-stack development, and deve
 </td>
 <td>
 
-**[CodePlay](https://github.com/TejaBudumuru3/CodePlay)** — My flagship project: a multi-agent AI system that builds playable 2D browser games from text prompts. You describe an idea, four specialized agents (Clarifier → Planner → Coder → Reviewer) autonomously design, build, QA-check, and deliver a complete game — streamed to your browser in real time. Built with Next.js 15, TypeScript, Prisma, OpenRouter, and deployed via Docker + GitHub Actions to Oracle Cloud. The kind of project that taught me everything about LLM orchestration, state machines, and streaming architectures.
+**[CodePlay](https://github.com/TejaBudumuru3/CodePlay)** — A multi-agent system that generates playable 2D browser games from text prompts. Four agents (Clarifier, Planner, Coder, Reviewer) work in sequence to go from a game idea to running code. Built with Next.js, TypeScript, Prisma, and OpenRouter. Deployed with Docker and GitHub Actions.
 
 </td>
 </tr>
@@ -50,7 +48,7 @@ I've spent my career at the intersection of AI, full-stack development, and deve
 </td>
 <td>
 
-**[BuildFlow](https://github.com/Dev-Pross/BuildFlow)** — Environment-aware workflow automation that makes dynamic decisions based on user data and preferences. Think of it as an intelligent pipeline that adapts — not just executes. TypeScript, built under my org [Dev-Pross](https://github.com/Dev-Pross).
+**[BuildFlow](https://github.com/Dev-Pross/BuildFlow)** — Workflow automation that adapts based on environment and user preferences. TypeScript, built under [Dev-Pross](https://github.com/Dev-Pross).
 
 </td>
 </tr>
@@ -60,7 +58,7 @@ I've spent my career at the intersection of AI, full-stack development, and deve
 </td>
 <td>
 
-**[DevHire](https://github.com/Dev-Pross/DevHire)** — AI-powered job application automation. It analyzes job descriptions, customizes your resume for each position, and applies to dozens of relevant roles in minutes instead of hours. Built with Python because the job search process is broken and engineers shouldn't spend hours copy-pasting.
+**[DevHire](https://github.com/Dev-Pross/DevHire)** — Automates the job application workflow — analyzes job descriptions, tailors resumes, and applies to relevant positions. Built with Python.
 
 </td>
 </tr>
@@ -70,7 +68,7 @@ I've spent my career at the intersection of AI, full-stack development, and deve
 </td>
 <td>
 
-**[Second-Brain](https://github.com/Dev-Pross/Second-Brain)** — A virtual brain for organizing, connecting, and retrieving knowledge. Next.js + Python. Because the best ideas die in scattered notes — this makes them findable.
+**[Second-Brain](https://github.com/Dev-Pross/Second-Brain)** — A knowledge management app for organizing and retrieving notes and ideas. Next.js + Python.
 
 </td>
 </tr>
@@ -80,7 +78,7 @@ I've spent my career at the intersection of AI, full-stack development, and deve
 </td>
 <td>
 
-**[AI Health Assistant](https://github.com/TejaBudumuru3/AI-Powered-Health-Assistant-project_techsaksham)** — Conversational health assistant powered by AI, built during a TechSaksham program. Python-based, designed for intelligent health guidance.
+**[AI Health Assistant](https://github.com/TejaBudumuru3/AI-Powered-Health-Assistant-project_techsaksham)** — A conversational health assistant built with Python during the TechSaksham program.
 
 </td>
 </tr>
@@ -128,10 +126,10 @@ I've spent my career at the intersection of AI, full-stack development, and deve
 
 ---
 
-## A bit about me
+## About me
 
 ```yaml
-name: Saran Teja Budumuru
+name: Teja Budumuru
 location: Visakhapatnam, India
 org: Dev-Pross
 certifications:
@@ -139,7 +137,7 @@ certifications:
   - Oracle Professional Certification
 currently_building: CodePlay — multi-agent AI game builder
 currently_learning:
-  - Advanced System Design
+  - System Design
   - LLM Orchestration & Agent Frameworks
   - Kubernetes
 past_companies:
@@ -172,12 +170,10 @@ open_to_opportunities: true
 
 ---
 
-## Say hi
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/saran-teja-budumuru)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:tejabudumuru3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/TejaBudumuru3)
-
-Or open an issue — I read everything.
 
 <img src="./footer.svg" width="100%"/>
